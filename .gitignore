@@ -1,0 +1,9 @@
+*.o
+*.old
+*.eap
+*.txt
+*.cfg
+*.target-makefrag
+Axvisca
+*.orig
+tmp*
